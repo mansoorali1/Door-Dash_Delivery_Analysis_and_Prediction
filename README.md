@@ -1,5 +1,5 @@
 # Door-Dash_Delivery_Analysis_and_Prediction
-
+When a consumer orders from a food delivery platform, providing an accurate estimated delivery time is crucial for ensuring a positive consumer experience. This project focuses on DoorDash delivery data, with a two-phase approach. Firstly, we analyze the data to extract valuable insights beneficial to the business. Secondly, we develop a model to predict the expected delivery duration, aiming to optimize the delivery process and enhance customer satisfaction.
 ## Available Features
 `market_id`: A city/region in which DoorDash operates, e.g., Los Angeles, given in the data as an id
 

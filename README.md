@@ -39,3 +39,5 @@ being processed.
 DoorDash (in seconds)
 
 `estimated_store_to_consumer_driving_duration`: Estimated travel time between store and consumer (in seconds)
+
+`Output Variable`: actual_delivery_time - created_at
